@@ -36,4 +36,4 @@ Each contains the final grid after all generations
 -  To enable debug printing of the grid after each generation, uncomment the #define DEBUG line at the top of the file.
 
 ## Performance Results
--  Detailed benchmarking results, including times for each test and configuration, can be found in the [bacteria results.xlsx](bacteria results.xlsx).
+-  Detailed benchmarking results, including times for each test and configuration, can be found in the [bacteria results.xlsx](bacteria_results.xlsx).
