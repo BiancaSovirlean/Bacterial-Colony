@@ -14,12 +14,12 @@ Performance benchmarking and speedup analysis
 Output verification: compares parallel results to the serial version
 
 ## Input Format
--  The input file must have the following format:
-<ROWS> <COLS>
-....X..
-...XX..
-..X....
-.......
+-  The input file must have the following format:  
+ROWS COLS  
+....X..  
+...XX..  
+..X....  
+.......  
 -  Each cell is either X (alive) or . (dead).
 -  First line defines the grid size.
 
